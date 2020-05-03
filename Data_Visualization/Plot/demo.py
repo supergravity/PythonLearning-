@@ -16,3 +16,7 @@ plt.legend(plots, ('Apple', 'Facebook', 'Google'), loc='best', framealpha=0.5, p
 plt.show()
 
 
+
+
+
+
